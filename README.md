@@ -177,7 +177,7 @@ T1 (day 0) funds mobilization so Milestone 1 can start immediately.
 
 ## 7. Disclosure and coordination
 
-- **Private first.** Following https://gonkadocs.com/gonka/docs/report-vulnerability/, no unpatched vulnerability, exploit or regression test is pushed to a public branch, issue or chat. Findings go to MillCreek R&D and designated maintainers through private GitHub Security Advisories or HackerOne, marked "Grant-covered — no bounty claim".
+- **Private first.** Following https://gonka.ai/docs/report-vulnerability/, no unpatched vulnerability, exploit or regression test is pushed to a public branch, issue or chat. Findings go to MillCreek R&D and designated maintainers through private GitHub Security Advisories or HackerOne, marked "Grant-covered — no bounty claim".
 - **Publication after the fix.** Regression tests and advisories become public only after the fix is merged, released and through the host upgrade window.
 - **Working with MillCreek and External Test Lab.** Bi-weekly syncs with MillCreek to line up code freezes, and Docker Compose and `testermint` targets with runbooks so External Test Lab can run every suite on `gonka-devnet-community` before upgrade votes.
 - **Oversight.** Milestone reports go in the Governance Proposal Reports category at least 5 days before each unlock. The Governance Support Committee tracks deadlines and can recommend a clawback; the Product Committee reviews results against the KPIs above.
